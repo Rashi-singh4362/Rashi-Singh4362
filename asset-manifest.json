@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rashi-Singh4362/static/css/main.aa85a564.css",
+    "main.js": "/Rashi-Singh4362/static/js/main.5603f586.js",
+    "index.html": "/Rashi-Singh4362/index.html",
+    "main.aa85a564.css.map": "/Rashi-Singh4362/static/css/main.aa85a564.css.map",
+    "main.5603f586.js.map": "/Rashi-Singh4362/static/js/main.5603f586.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa85a564.css",
+    "static/js/main.5603f586.js"
+  ]
+}
